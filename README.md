@@ -14,3 +14,11 @@
 
 
 #### Результат работы:
+
+    C:\Work\python\Data\PyData_dz2\venv\Scripts\python.exe C:\Work\python\Data\PyData_dz2\main.py
+    (1/3) Главная страница: 100%|██████████| 51/51 [00:00<?, ?it/s]
+    (2/3) Категории: 100%|██████████| 50/50 [01:00<00:00,  1.22s/it]
+    (3/3) Книги: 100%|██████████| 1000/1000 [10:17<00:00,  1.62it/s]
+    Process finished with exit code 0
+
+Файл с результатом скрейпинга: [rezult.json](rezult.json)
